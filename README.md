@@ -4,7 +4,7 @@ A bot for the CustomsForge Rocksmith Custom DLC Discord server
 ## Running this project
 Node Package Manager must be install to run this Node server.
 
-Node can be downloaded here:
+Node can be downloaded here: https://nodejs.org/en/
 
 From a CLI in this directory, use `npm install` to install all dependencies at once.
 
